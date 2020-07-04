@@ -1,0 +1,2 @@
+# gitstatic
+static images
